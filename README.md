@@ -1,1 +1,1 @@
-# cascade-files-for-detecting-animals
+# cascade files for detecting animals
